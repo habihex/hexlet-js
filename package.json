@@ -1,0 +1,27 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Hexlet-JS Мой первый проект на Хекслете",
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habihex/hexlet-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habihex/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/habihex/hexlet-js#readme"
+}
